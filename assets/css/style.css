@@ -4,6 +4,9 @@
 }
 .jumbotron {
 	text-align: center;
+	background-image: url(../images/train.png);
+	background-size: contain;
+	color: #234eaa;
 }
 .info-form {
 	padding: 10px;
