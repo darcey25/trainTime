@@ -1,0 +1,10 @@
+.jumbotron, .panel {
+	max-width: 980px;
+	margin: auto;
+}
+.jumbotron {
+	text-align: center;
+}
+.info-form {
+	padding: 10px;
+}
